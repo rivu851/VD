@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from "react";
+import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
+import { useAppContext } from "../context/AppContext";
+
 const images = [
   "https://plus.unsplash.com/premium_photo-1661963643348-e95c6387ee8a?q=100&w=3000&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=100&w=3000&auto=format&fit=crop",
@@ -11,9 +14,13 @@ const images = [
   "https://images.unsplash.com/photo-1460627390041-532a28402358?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "https://plus.unsplash.com/premium_photo-1678727128546-154b1725c336?q=80&w=2149&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 ];
+
 const HeroSection = () => {
+  const { t } = useTranslation();
+  const { user } = useAppContext();
   const [index, setIndex] = useState(0);
-  const [loaded, setLoaded] = useState(false);  
+  const [loaded, setLoaded] = useState(false);
+
   useEffect(() => {
     const preloadImages = async () => {
       const promises = images.map((src) => {
@@ -23,7 +30,6 @@ const HeroSection = () => {
           img.onload = resolve;
         });
       });
-
       await Promise.all(promises);
       setLoaded(true);
     };
@@ -54,18 +60,20 @@ const HeroSection = () => {
         ))}
       <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white px-6">
         <h2 className="text-6xl font-extrabold mb-6 drop-shadow-lg">
-          Find & Book Your Trip
+          {t("herosec.heroTitle")}
         </h2>
         <p className="text-xl font-medium max-w-3xl">
-          Discover your next adventure with the best deals on flights, hotels, and more.
+          {t("herosec.heroSubtitle")}
         </p>
-        <Link  to='/explore'
-        className="bg-red-500 text-white px-6 py-3 rounded-full mt-4 hover:bg-red-700 transition  duration-300"
-      >
-        Explore
-      </Link>
-      </div>  
+        <Link
+          to={user == null ? "/login" : "/explore"}
+          className="bg-red-500 text-white px-6 py-3 rounded-full mt-4 hover:bg-red-700 transition duration-300"
+        >
+          {t("herosec.explore")}
+        </Link>
+      </div>
     </div>
   );
 };
+
 export default HeroSection;

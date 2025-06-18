@@ -1,0 +1,706 @@
+[
+    {
+        "Index": "1",
+        "Police Station Name": "Alipore",
+        "Phone Number": "033-2479 1021 / 6292258109",
+        "Address": "8,Belvedere Road,Kol-27",
+        "Latitude": "22.5356° N",
+        "Longitude": "88.3369° E"
+    },
+    {
+        "Index": "2",
+        "Police Station Name": "Amherst Street",
+        "Phone Number": "033-2360 5714 / 6292258204",
+        "Address": "57, Raja Ram Mohan Sarani, Kolkata-700009",
+        "Latitude": "22.5833° N",
+        "Longitude": "88.3667° E"
+    },
+    {
+        "Index": "3",
+        "Police Station Name": "Amherst Street Women",
+        "Phone Number": "033-2360 2222 / 6292258209",
+        "Address": "57, Raja Ram Mohan Sarani, Kol - 700009",
+        "Latitude": "22.5833° N",
+        "Longitude": "88.3667° E"
+    },
+    {
+        "Index": "4",
+        "Police Station Name": "Anandapur",
+        "Phone Number": "6292258804 / 033-2443 5000 / 033-2443 8000",
+        "Address": "757 Madurdaha, Hossainpur, Kolkata-700107",
+        "Latitude": "22.5115° N",
+        "Longitude": "88.4093° E"
+    },
+    {
+        "Index": "5",
+        "Police Station Name": "Ballygunge",
+        "Phone Number": "033-2454 3179 / 6292258401",
+        "Address": "38/1, Beltola Road, Kolkata-700020",
+        "Latitude": "22.5273° N",
+        "Longitude": "88.3609° E"
+    },
+    {
+        "Index": "6",
+        "Police Station Name": "Bansdroni",
+        "Phone Number": "6292258604",
+        "Address": "Rainagar Health Centre, Madhyapara, Bansdroni, Kolkata - 700070",
+        "Latitude": "22.4705° N",
+        "Longitude": "88.3631° E"
+    },
+    {
+        "Index": "7",
+        "Police Station Name": "Behala",
+        "Phone Number": "6292258702/033-2396 7350",
+        "Address": "131, Diamond Harbour Road, Kolkata - 700034",
+        "Latitude": "22.49546",
+        "Longitude": "88.31657"
+    },
+    {
+        "Index": "8",
+        "Police Station Name": "Behala Women",
+        "Phone Number": "6292258707/033-2396 7020/ 2409 8030/8100796512",
+        "Address": "131, Diamond Harbour Road, Kol - 34",
+        "Latitude": "22.49546",
+        "Longitude": "88.31657"
+    },
+    {
+        "Index": "9",
+        "Police Station Name": "Beliaghata",
+        "Phone Number": "6292258303/033-2353 6433",
+        "Address": "P-57, CIT Road, Kolkata-700010",
+        "Latitude": "22.5694° N",
+        "Longitude": "88.3892° E"
+    },
+    {
+        "Index": "10",
+        "Police Station Name": "Beniapukur",
+        "Phone Number": "033-2284 4770 / 033-2284 0100 / 6292258406",
+        "Address": "40/A, Gorachand Road, Kolkata-700014",
+        "Latitude": "22.5494° N",
+        "Longitude": "88.3713° E"
+    },
+    {
+        "Index": "11",
+        "Police Station Name": "Bhangar",
+        "Phone Number": "9874902721",
+        "Address": "Vill- Bhangar Raghunathpur PO- Bhangar Dist-South 24 Parganas Pin No-743502 State- West Bengal",
+        "Latitude": "22.5648° N",
+        "Longitude": "88.5204° E"
+    },
+    {
+        "Index": "12",
+        "Police Station Name": "Bhowanipur",
+        "Phone Number": "033-2455 8092 / 6292258105",
+        "Address": "42, S.P Mukherjee Road, Kolkata-700026",
+        "Latitude": "22.5255° N",
+        "Longitude": "88.3458° E"
+    },
+    {
+        "Index": "13",
+        "Police Station Name": "Bijoyganj Bazar Police Station",
+        "Phone Number": "9874904521",
+        "Address": "91 ROAD, BHANGAR TO LAUHATI PO-UTTAR KASHIPUR KOLKATA-135",
+        "Latitude": "Not Found",
+        "Longitude": "Not Found"
+    },
+    {
+        "Index": "14",
+        "Police Station Name": "Bodra",
+        "Phone Number": "9874902721",
+        "Address": "Vill- Bhangar Raghunathpur PO- Bhangar Dist-South 24 Parganas Pin No-743502 State- West Bengal",
+        "Latitude": "22.5648° N",
+        "Longitude": "88.5204° E"
+    },
+    {
+        "Index": "15",
+        "Police Station Name": "Bowbazar",
+        "Phone Number": "033-2211 4813 / 6292258006",
+        "Address": "13, Kapiltolla Lane, Kolkata-700012",
+        "Latitude": "22.5702° N",
+        "Longitude": "88.3615° E"
+    },
+    {
+        "Index": "16",
+        "Police Station Name": "Burrabazar",
+        "Phone Number": "033-2268 7554 / 6292258001",
+        "Address": "8, Mullick Street, Kolkata-700007",
+        "Latitude": "22.5802° N",
+        "Longitude": "88.3564° E"
+    },
+    {
+        "Index": "17",
+        "Police Station Name": "Burtolla",
+        "Phone Number": "033-2555 7599 / 6292258203",
+        "Address": "1, Raja Raj Krishna Street, Kolkata-700006",
+        "Latitude": "22.5923",
+        "Longitude": "88.37385"
+    },
+    {
+        "Index": "18",
+        "Police Station Name": "Chandaneswar",
+        "Phone Number": "9073304956",
+        "Address": "Chandaneswar-I Community Hall, opposite to power sub-station under Bhangar-I Block",
+        "Latitude": "Not Found",
+        "Longitude": "Not Found"
+    },
+    {
+        "Index": "19",
+        "Police Station Name": "Charu Market",
+        "Phone Number": "033-2424 9900 / 6292258108",
+        "Address": "28, Deshpran Sasmal Road, Kolkata-700033",
+        "Latitude": "22.5085° N",
+        "Longitude": "88.3444° E"
+    },
+    {
+        "Index": "20",
+        "Police Station Name": "Chetla",
+        "Phone Number": "033-2448 6642 / 6292258111",
+        "Address": "19/4 Pitambar Ghatak lane,Kolkata-700027",
+        "Latitude": "22.5165° N",
+        "Longitude": "88.3379° E"
+    },
+    {
+        "Index": "21",
+        "Police Station Name": "Chitpur",
+        "Phone Number": "033-2556 6141 / 6292258207",
+        "Address": "19, Cossipore Road, Kolkata-700002",
+        "Latitude": "22.6253",
+        "Longitude": "88.3707"
+    },
+    {
+        "Index": "22",
+        "Police Station Name": "Cossipore",
+        "Phone Number": "033-2556 6434 / 6292258205",
+        "Address": "58/A, B.T Road, Kolkata-700002",
+        "Latitude": "22.6245° N",
+        "Longitude": "88.3768° E"
+    },
+    {
+        "Index": "23",
+        "Police Station Name": "Ekbalpur",
+        "Phone Number": "6292258503 / 033-2449 2135",
+        "Address": "38B, Ekbalpore Road, Kolkata-700023",
+        "Latitude": "22.5358° N",
+        "Longitude": "88.3283° E"
+    },
+    {
+        "Index": "24",
+        "Police Station Name": "Entally",
+        "Phone Number": "6292258306/033-2227 5892",
+        "Address": "12, Convent Road, Kolkata-700014",
+        "Latitude": "22.5608",
+        "Longitude": "88.3694"
+    },
+    {
+        "Index": "25",
+        "Police Station Name": "Garden Reach",
+        "Phone Number": "6292258502 / 033-2469 6569",
+        "Address": "1, Taratola Road, Kolkata-700024",
+        "Latitude": "22.5298° N",
+        "Longitude": "88.3129° E"
+    },
+    {
+        "Index": "26",
+        "Police Station Name": "Garfa",
+        "Phone Number": "033-2418-6949/6292258602",
+        "Address": "Garfa Deaf and Dumb School Premises, Vivekananda Sarani, Doctor Bagan, Kolkata - 700078",
+        "Latitude": "22.4938° N",
+        "Longitude": "88.3842° E"
+    },
+    {
+        "Index": "27",
+        "Police Station Name": "Gariahat",
+        "Phone Number": "033-2486 3702 / 6292258402",
+        "Address": "2 Dover Lane, Kolkata - 700029",
+        "Latitude": "22.521111",
+        "Longitude": "88.361667"
+    },
+    {
+        "Index": "28",
+        "Police Station Name": "Girish Park",
+        "Phone Number": "033-2219 8041/ 6292258004",
+        "Address": "138, Ramdulal Sarkar Street, Kolkata-700 006",
+        "Latitude": "22.5901° N",
+        "Longitude": "88.3698° E"
+    },
+    {
+        "Index": "29",
+        "Police Station Name": "Golf Green",
+        "Phone Number": "033-2499 4059/6292258609",
+        "Address": "58/106, P. A. Shah Road, Kolkata-700045",
+        "Latitude": "22.4925° N",
+        "Longitude": "88.3612° E"
+    },
+    {
+        "Index": "30",
+        "Police Station Name": "Hare Street",
+        "Phone Number": "033-2211 8760 / 6292258005",
+        "Address": "42, C.R Avenue, Kolkata-700069",
+        "Latitude": "22.5732° N",
+        "Longitude": "88.3547° E"
+    },
+    {
+        "Index": "31",
+        "Police Station Name": "Haridevpur",
+        "Phone Number": "033-2402 2007 / 6292258706",
+        "Address": "559, M.G.Road, Kolkata - 82",
+        "Latitude": "22.4735° N",
+        "Longitude": "88.3268° E"
+    },
+    {
+        "Index": "32",
+        "Police Station Name": "Hastings",
+        "Phone Number": "033-2223 0716 / 6292258103",
+        "Address": "5, Middle Road, Kolkata-700022",
+        "Latitude": "22.5513° N",
+        "Longitude": "88.3361° E"
+    },
+    {
+        "Index": "33",
+        "Police Station Name": "Hatishala Police station",
+        "Phone Number": "9874902941",
+        "Address": "Shyamnagar Karmatirtha at Joynagar, Mouza- Shyamnagar, Dag No. 1662, JL No. 21",
+        "Latitude": "Not Found",
+        "Longitude": "Not Found"
+    },
+    {
+        "Index": "34",
+        "Police Station Name": "Jadavpur",
+        "Phone Number": "033-2473 0146/ 6292258605",
+        "Address": "1, Raja S C Mallick Road, Kolkata - 700032",
+        "Latitude": "22.503875",
+        "Longitude": "88.345933"
+    },
+    {
+        "Index": "35",
+        "Police Station Name": "Jorabagan",
+        "Phone Number": "033-2218 4094 / 6292258202",
+        "Address": "78, Nimtala Ghat Street, Kolkata-700006",
+        "Latitude": "22.5978° N",
+        "Longitude": "88.3614° E"
+    },
+    {
+        "Index": "36",
+        "Police Station Name": "Jorasanko",
+        "Phone Number": "033-2269 7279 / 6292258003",
+        "Address": "16, Bal Mukund Malkar Road, Kolkata-700007",
+        "Latitude": "22.5825° N",
+        "Longitude": "88.3601° E"
+    },
+    {
+        "Index": "37",
+        "Police Station Name": "Kalighat",
+        "Phone Number": "6292258106/ 033-2454 0177/ 8100796459",
+        "Address": "53,Haldar Para Road, Kolkata-700026",
+        "Latitude": "22.5222° N",
+        "Longitude": "88.3448° E"
+    },
+    {
+        "Index": "38",
+        "Police Station Name": "Karaya",
+        "Phone Number": "033-2287 1715 / 033-2281 1100 / 6292258405",
+        "Address": "52, Karaya Road, Kolkata-700019",
+        "Latitude": "22.5388° N",
+        "Longitude": "88.3671° E"
+    },
+    {
+        "Index": "39",
+        "Police Station Name": "Karaya Women",
+        "Phone Number": "033-2287 0128 / 033-2287 0072 / 6292258409",
+        "Address": "52, Karaya Road, Kol - 700019",
+        "Latitude": "22.5388° N",
+        "Longitude": "88.3671° E"
+    },
+    {
+        "Index": "40",
+        "Police Station Name": "Kasba",
+        "Phone Number": "033-2442-0164/ 6292258601",
+        "Address": "27A, Bose Pukur Road, Kolkata - 700042",
+        "Latitude": "22.5135° N",
+        "Longitude": "88.3855° E"
+    },
+    {
+        "Index": "41",
+        "Police Station Name": "Kolkata Leather Complex",
+        "Phone Number": "6292258806 / 76030-32712",
+        "Address": "Karaidanga, P.O - Bhojerhat, Pin - 743502.",
+        "Latitude": "22.5186° N",
+        "Longitude": "88.4712° E"
+    },
+    {
+        "Index": "42",
+        "Police Station Name": "Lake",
+        "Phone Number": "033-2429 2353 / 6292258403",
+        "Address": "18, Gariahat Road South, Kolkata-700068",
+        "Latitude": "22.5033° N",
+        "Longitude": "88.3618° E"
+    },
+    {
+        "Index": "43",
+        "Police Station Name": "Madhabpur Police Station",
+        "Phone Number": "9073304956",
+        "Address": "Chandaneswar-I Community Hall, opposite to power sub-station under Bhangar-I Block",
+        "Latitude": "Not Found",
+        "Longitude": "Not Found"
+    },
+    {
+        "Index": "44",
+        "Police Station Name": "Maidan",
+        "Phone Number": "033-2223 2462 / 6292258104",
+        "Address": "1/5, A.J.C. Bose Road, Kolkata-700 020",
+        "Latitude": "22.5539° N",
+        "Longitude": "88.3512° E"
+    },
+    {
+        "Index": "45",
+        "Police Station Name": "Manicktala",
+        "Phone Number": "6292258301/ 033-2360 5681",
+        "Address": "20, Canal West Road, Kolkata-700006",
+        "Latitude": "22.5932° N",
+        "Longitude": "88.3801° E"
+    },
+    {
+        "Index": "46",
+        "Police Station Name": "Metiabruz",
+        "Phone Number": "6292258507 / 033-2469 5317",
+        "Address": "R-1, S A Farouki Road, Kolkata - 700024",
+        "Latitude": "22.5338° N",
+        "Longitude": "88.2986° E"
+    },
+    {
+        "Index": "47",
+        "Police Station Name": "Muchipara",
+        "Phone Number": "033-2227 8430 / 6292258007",
+        "Address": "6, Santosh Mitra Squre, Kolkata-700012",
+        "Latitude": "22.5708° N",
+        "Longitude": "88.3675° E"
+    },
+    {
+        "Index": "48",
+        "Police Station Name": "Nadial",
+        "Phone Number": "6292258508 / 033-2489 4079",
+        "Address": "Z-3/102, Dr. A K Road, Kolkata - 700044",
+        "Latitude": "22.5245° N",
+        "Longitude": "88.3155° E"
+    },
+    {
+        "Index": "49",
+        "Police Station Name": "Narkeldanga",
+        "Phone Number": "6292258305/033-2360 5710",
+        "Address": "6/1, Dr. M.N Chatterjee Sarani, Kolkata-700009",
+        "Latitude": "22.5842° N",
+        "Longitude": "88.3845° E"
+    },
+    {
+        "Index": "50",
+        "Police Station Name": "Netaji Nagar",
+        "Phone Number": "6292258607",
+        "Address": "9, Puratan Bazar, Hari Mohan Primary School, Kolkata-700092",
+        "Latitude": "22.4828° N",
+        "Longitude": "88.3679° E"
+    },
+    {
+        "Index": "51",
+        "Police Station Name": "New Alipore",
+        "Phone Number": "033-2400 2943 / 6292258110",
+        "Address": "494 and 495,Block-M, New Alipore, Kolkata-700053",
+        "Latitude": "22.5048° N",
+        "Longitude": "88.3305° E"
+    },
+    {
+        "Index": "52",
+        "Police Station Name": "New Market",
+        "Phone Number": "033-2217 7397 / 6292258009",
+        "Address": "133/2, S. N. Banerjee Road, Kolkata-700 013",
+        "Latitude": "22.5605° N",
+        "Longitude": "88.3562° E"
+    },
+    {
+        "Index": "53",
+        "Police Station Name": "North Port",
+        "Phone Number": "6292258506 / 033-2243 1100",
+        "Address": "67/3, Strand Bank Road, Kolkata-700001",
+        "Latitude": "22.5855° N",
+        "Longitude": "88.3468° E"
+    },
+    {
+        "Index": "54",
+        "Police Station Name": "Panchasayar",
+        "Phone Number": "6292258802 / 033-2432 6001 / 033-2432 6011",
+        "Address": "Srinagar Main Road, New Garia Super Market, Kolkata-700094",
+        "Latitude": "22.4795° N",
+        "Longitude": "88.4021° E"
+    },
+    {
+        "Index": "55",
+        "Police Station Name": "Park Street",
+        "Phone Number": "033-2226 8321 / 6292258101",
+        "Address": "Ward Health Unit, Upen Banerjee Road, Parnasree Pally, Kolkata - 700044",
+        "Latitude": "22.5011° N",
+        "Longitude": "88.3182° E"
+    },
+    {
+        "Index": "56",
+        "Police Station Name": "Parnashree",
+        "Phone Number": "6292258703/033-2488 7172",
+        "Address": "Ward Health Unit, Upen Banerjee Road, Parnasree Pally, Kolkata - 700044",
+        "Latitude": "22.5011° N",
+        "Longitude": "88.3182° E"
+    },
+    {
+        "Index": "57",
+        "Police Station Name": "Patuli",
+        "Phone Number": "033-2462-5195/6292258606",
+        "Address": "H-10, Baishnabghata - Patuli Township, PO - Panchasayar, Kolkata - 700094",
+        "Latitude": "22.4745° N",
+        "Longitude": "88.3891° E"
+    },
+    {
+        "Index": "58",
+        "Police Station Name": "Patuli Women",
+        "Phone Number": "033-2462 0251/0065/ 6292258608",
+        "Address": "H-10, Baishnabghata Patuli Township, Kol - 700094",
+        "Latitude": "22.4745° N",
+        "Longitude": "88.3891° E"
+    },
+    {
+        "Index": "59",
+        "Police Station Name": "Phoolbagan",
+        "Phone Number": "6292258304/033-2320 0920",
+        "Address": "P-86, CIT Road Scheme-VIIM, Kolkata-700054",
+        "Latitude": "22.5785° N",
+        "Longitude": "88.3945° E"
+    },
+    {
+        "Index": "60",
+        "Police Station Name": "Polerhat",
+        "Phone Number": "9874902941",
+        "Address": "Shyamnagar Karmatirtha at Joynagar, Mouza- Shyamnagar, Dag No. 1662, JL No. 21",
+        "Latitude": "Not Found",
+        "Longitude": "Not Found"
+    },
+    {
+        "Index": "61",
+        "Police Station Name": "Posta",
+        "Phone Number": "033-2259 5606 / 6292258002",
+        "Address": "67/50, Strand Road, Kolkata-700007",
+        "Latitude": "22.5862° N",
+        "Longitude": "88.3518° E"
+    },
+    {
+        "Index": "62",
+        "Police Station Name": "Pragati Maidan",
+        "Phone Number": "6292258805 / 033-2285 0500 / 033-2285 1507",
+        "Address": "Parama Traffic Island, Kolkata - 700105",
+        "Latitude": "22.5458° N",
+        "Longitude": "88.3995° E"
+    },
+    {
+        "Index": "63",
+        "Police Station Name": "Purba Jadavpur",
+        "Phone Number": "6292258801/033-2426 7345/033-2416 6203",
+        "Address": "305, Mukundapur Main Road, Kolkata - 700099",
+        "Latitude": "22.4981° N",
+        "Longitude": "88.4098° E"
+    },
+    {
+        "Index": "64",
+        "Police Station Name": "Rajabagan",
+        "Phone Number": "6292258509 / 033-2409 9175",
+        "Address": "T-250, Garden Reach Road, Gandhi Maidan, Kolkata - 700044",
+        "Latitude": "22.5312° N",
+        "Longitude": "88.3088° E"
+    },
+    {
+        "Index": "65",
+        "Police Station Name": "Regent Park",
+        "Phone Number": "033-2381-3162/6292258603",
+        "Address": "45/D/2A, Moore Avenue, Kolkata - 700040",
+        "Latitude": "22.4912° N",
+        "Longitude": "88.3545° E"
+    },
+    {
+        "Index": "66",
+        "Police Station Name": "Sarsuna",
+        "Phone Number": "6292258705/033-2452 1630/8100796510",
+        "Address": "Satellite Township 4, Ho Chi Min Sarani, Kolkata-700061",
+        "Latitude": "22.4901° N",
+        "Longitude": "88.2975° E"
+    },
+    {
+        "Index": "67",
+        "Police Station Name": "Shakespeare Sarani",
+        "Phone Number": "033-2281 2541/ 6292258102",
+        "Address": "34A, Shakespeare Sarani, Kolkata-700017",
+        "Latitude": "22.5448° N",
+        "Longitude": "88.3585° E"
+    },
+    {
+        "Index": "68",
+        "Police Station Name": "Shyampukur",
+        "Phone Number": "033-2555 7585 / 6292258201",
+        "Address": "47, Shyampukur Street, Kolkata-700004",
+        "Latitude": "22.6025° N",
+        "Longitude": "88.3701° E"
+    },
+    {
+        "Index": "69",
+        "Police Station Name": "Sinthee",
+        "Phone Number": "033-2532 5383 / 6292258206",
+        "Address": "145/1, South Sinthi Road, Kolkata - 700050",
+        "Latitude": "22.6225° N",
+        "Longitude": "88.3895° E"
+    },
+    {
+        "Index": "70",
+        "Police Station Name": "South Port",
+        "Phone Number": "6292258505 / 033-2459 3226",
+        "Address": "1, Satya Doctor Road, Kolkata-700023",
+        "Latitude": "22.5401° N",
+        "Longitude": "88.3248° E"
+    },
+    {
+        "Index": "71",
+        "Police Station Name": "Survey Park",
+        "Phone Number": "6292258803 / 033-2436 8052",
+        "Address": "D 50/2 East Rajapur, Kolkata - 700075",
+        "Latitude": "22.5065° N",
+        "Longitude": "88.3948° E"
+    },
+    {
+        "Index": "72",
+        "Police Station Name": "Survey Park Women",
+        "Phone Number": "9432610469/033-24166135",
+        "Address": "D 50/2 East Rajapur, Kolkata - 700075",
+        "Latitude": "22.5065° N",
+        "Longitude": "88.3948° E"
+    },
+    {
+        "Index": "73",
+        "Police Station Name": "Tala",
+        "Phone Number": "033-2546 4901 /6292258208",
+        "Address": "4,Indra Biswas Road,Kolkata-700037",
+        "Latitude": "22.6095° N",
+        "Longitude": "88.3778° E"
+    },
+    {
+        "Index": "74",
+        "Police Station Name": "Taltala",
+        "Phone Number": "033-2227 7784 / 6292258008",
+        "Address": "4, Taltola Lane, Kolkata-700014",
+        "Latitude": "22.5621° N",
+        "Longitude": "88.3595° E"
+    },
+    {
+        "Index": "75",
+        "Police Station Name": "Taltala Women",
+        "Phone Number": "033-2283 7575 / 6292258010",
+        "Address": "4, Taltala Lane, Kol - 700014",
+        "Latitude": "22.5621° N",
+        "Longitude": "88.3595° E"
+    },
+    {
+        "Index": "76",
+        "Police Station Name": "Tangra",
+        "Phone Number": "6292258307/033-2329 6769",
+        "Address": "15, Gobinda Khatick Road, Kolkata-700015",
+        "Latitude": "22.5585° N",
+        "Longitude": "88.3888° E"
+    },
+    {
+        "Index": "77",
+        "Police Station Name": "Taratala",
+        "Phone Number": "6292258701/033-2401 1881/8100796505",
+        "Address": "63, Taratala Road, Kolkata - 700088",
+        "Latitude": "22.5185° N",
+        "Longitude": "88.3195° E"
+    },
+    {
+        "Index": "78",
+        "Police Station Name": "Thakurpukur",
+        "Phone Number": "6292258704/033-2497 6680",
+        "Address": "123/117, Diamond Harbour Road, Kolkata - 700063",
+        "Latitude": "22.4605",
+        "Longitude": "88.3162"
+    },
+    {
+        "Index": "79",
+        "Police Station Name": "Tiljala",
+        "Phone Number": "033-2343 4693 / 6292258408",
+        "Address": "C N Roy Road, Kolkata - 700039",
+        "Latitude": "22.5315° N",
+        "Longitude": "88.3828° E"
+    },
+    {
+        "Index": "80",
+        "Police Station Name": "Tollygunge",
+        "Phone Number": "033-2464 2765 / 6292258107",
+        "Address": "178A, S.P Mukherjee Road, Kolkata-700026",
+        "Latitude": "22.5028° N",
+        "Longitude": "88.3475° E"
+    },
+    {
+        "Index": "81",
+        "Police Station Name": "Tollygunge Women",
+        "Phone Number": "6292258112/033-2464 0003",
+        "Address": "170, S.P. Mukherjee Road, Kol - 700026",
+        "Latitude": "22.5035° N",
+        "Longitude": "88.3478° E"
+    },
+    {
+        "Index": "82",
+        "Police Station Name": "Topsia",
+        "Phone Number": "033-2281 4268 / 033-2280 4100 / 6292258407",
+        "Address": "106A, New Park Street, Kolkata-700017",
+        "Latitude": "22.5435° N",
+        "Longitude": "88.3758° E"
+    },
+    {
+        "Index": "83",
+        "Police Station Name": "Ultadanga",
+        "Phone Number": "6292258302 / 033-2356 6264",
+        "Address": "Block-13, CIT Scheme No. VIII-M, Kolkata-700067",
+        "Latitude": "22.5955° N",
+        "Longitude": "88.3905° E"
+    },
+    {
+        "Index": "84",
+        "Police Station Name": "Ultadanga Women",
+        "Phone Number": "6292258308/033-2356 2218",
+        "Address": "Block-13,CIT Scheme No. VIII-M, Kol - 700067",
+        "Latitude": "22.5955° N",
+        "Longitude": "88.3905° E"
+    },
+    {
+        "Index": "85",
+        "Police Station Name": "Uttar Kashipur",
+        "Phone Number": "9874904521",
+        "Address": "91 ROAD, BHANGAR TO LAUHATI PO-UTTAR KASHIPUR KOLKATA-135",
+        "Latitude": "Not Found",
+        "Longitude": "Not Found"
+    },
+    {
+        "Index": "86",
+        "Police Station Name": "Watgunge",
+        "Phone Number": "6292258501 / 033-2459 3298",
+        "Address": "16, Watgunge Street, Kolkata-700023",
+        "Latitude": "22.541944",
+        "Longitude": "88.326472"
+    },
+    {
+        "Index": "87",
+        "Police Station Name": "Watgunge Women",
+        "Phone Number": "6292258510 / 033-2489 2100",
+        "Address": "16, Watgunge Street, Kol - 700023",
+        "Latitude": "22.541944",
+        "Longitude": "88.326472"
+    },
+    {
+        "Index": "88",
+        "Police Station Name": "West Port",
+        "Phone Number": "6292258504 / 033-2439 3617",
+        "Address": "72/1, Garden Reach Road, Kolkata-700043",
+        "Latitude": "22.5458° N",
+        "Longitude": "88.3188° E"
+    }
+]

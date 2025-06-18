@@ -1,0 +1,191 @@
+[
+    {
+        "Hospital Name": "AMRI Hospitals",
+        "Phone Number": "+91  6291 576 664 (Mukundapur) / +91  6291 576 664 (Dhakuria) / +91 33 6606 3500 (Salt Lake)",
+        "Address": "Multiple locations including Mukundapur, Dhakuria, Salt Lake",
+        "Latitude": "Varies by location (e.g., Mukundapur: 22.5050° N, 88.4069° E)",
+        "Longitude": "Varies by location"
+    },
+    {
+        "Hospital Name": "Anandalok Hospital",
+        "Phone Number": "+91 33 2521 7000",
+        "Address": "P 33, CIT Rd, Scheme - VI M, Kankurgachi, Kolkata, West Bengal 700054",
+        "Latitude": "22.5855° N",
+        "Longitude": "88.3965° E"
+    },
+    {
+        "Hospital Name": "Antara (hospital)",
+        "Phone Number": "+91 33 2436 3333",
+        "Address": "175, Diamond Harbour Rd, Near Joka Metro Station, Kolkata, West Bengal 700104",
+        "Latitude": "22.4578° N",
+        "Longitude": "88.3182° E"
+    },
+    {
+        "Hospital Name": "We Care (hospital)",
+        "Phone Number": "+91 33 2436 3333",
+        "Address": "175, Jk Street, Near Ghori Bari Ground, Hooghly, West Bengal 700104",
+        "Latitude": "22.6641° N",
+        "Longitude": "88.3414° E"
+    },
+    {
+        "Hospital Name": "Bangur Institute of Neurosciences",
+        "Phone Number": "+91 33 2223 5400",
+        "Address": "52/1A, Sambhu Nath Pandit St, Bhowanipore, Kolkata, West Bengal 700025",
+        "Latitude": "22.5350° N",
+        "Longitude": "88.3475° E"
+    },
+    {
+        "Hospital Name": "Belle Vue Clinic, Kolkata",
+        "Phone Number": "+91 33 2289 9000",
+        "Address": "9A, Dr. U.N. Brahmachari Street, Kolkata, West Bengal 700017",
+        "Latitude": "22.5487° N",
+        "Longitude": "88.3548° E"
+    },
+    {
+        "Hospital Name": "Bidhannagar Sub-Divisional Hospital",
+        "Phone Number": "+91 33 2358 1111",
+        "Address": "FC Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+        "Latitude": "22.5888° N",
+        "Longitude": "88.4116° E"
+    },
+    {
+        "Hospital Name": "Chittaranjan National Cancer Institute",
+        "Phone Number": "+91 33 2475 9301",
+        "Address": "37, S. P. Mukherjee Road, Kolkata, West Bengal 700026",
+        "Latitude": "22.5186° N",
+        "Longitude": "88.3435° E"
+    },
+    {
+        "Hospital Name": "David Hare Block",
+        "Phone Number": "Information often pertains to a block within Medical College & Hospital, Kolkata, rather than a standalone hospital.",
+        "Address": "88 College St, Kolkata, West Bengal 700073 (part of Medical College & Hospital)",
+        "Latitude": "22.5724° N",
+        "Longitude": "88.3621° E"
+    },
+    {
+        "Hospital Name": "Desun Hospital",
+        "Phone Number": "+91 33 4033 1000",
+        "Address": "EM Bypass, Near Peerless Hospital, Anandapur, Kolkata, West Bengal 700107",
+        "Latitude": "22.5042° N",
+        "Longitude": "88.4057° E"
+    },
+    {
+        "Hospital Name": "Eden Hospital",
+        "Phone Number": "Part of Medical College & Hospital, Kolkata.",
+        "Address": "88 College St, Kolkata, West Bengal 700073 (part of Medical College & Hospital)",
+        "Latitude": "22.5724° N",
+        "Longitude": "88.3621° E"
+    },
+    {
+        "Hospital Name": "Ezra Hospital",
+        "Phone Number": "Not a widely known standalone hospital in Kolkata. Likely a smaller clinic or historical reference. No clear information found.",
+        "Address": "-",
+        "Latitude": "-",
+        "Longitude": "-"
+    },
+    {
+        "Hospital Name": "Fortis Healthcare",
+        "Phone Number": "+91 33 6640 4444 (Anandapur)",
+        "Address": "730, Anandapur, E.M. Bypass Road, Kolkata, West Bengal 700107",
+        "Latitude": "22.5042° N",
+        "Longitude": "88.4057° E"
+    },
+    {
+        "Hospital Name": "Institute of Child Health, Kolkata",
+        "Phone Number": "+91 33 2286 6300",
+        "Address": "11, Dr. Biresh Guha Street, Kolkata, West Bengal 700017",
+        "Latitude": "22.5414° N",
+        "Longitude": "88.3570° E"
+    },
+    {
+        "Hospital Name": "IPGMER and SSKM Hospital",
+        "Phone Number": "+91 33 2223 5181",
+        "Address": "242, Acharya Jagadish Chandra Bose Rd, Bhowanipore, Kolkata, West Bengal 700020",
+        "Latitude": "22.5359° N",
+        "Longitude": "88.3475° E"
+    },
+    {
+        "Hospital Name": "KPC Medical College and Hospital",
+        "Phone Number": "+91 33 2406 8000",
+        "Address": "160, Raja S.C. Mallick Road, Jadavpur, Kolkata, West Bengal 700032",
+        "Latitude": "22.4907° N",
+        "Longitude": "88.3759° E"
+    },
+    {
+        "Hospital Name": "Medical College & Hospital, Kolkata",
+        "Phone Number": "+91 33 2212 3781",
+        "Address": "88 College St, Kolkata, West Bengal 700073",
+        "Latitude": "22.5724° N",
+        "Longitude": "88.3621° E"
+    },
+    {
+        "Hospital Name": "Narayana Health",
+        "Phone Number": "(Parent company, multiple hospitals)",
+        "Address": "-",
+        "Latitude": "-",
+        "Longitude": "-"
+    },
+    {
+        "Hospital Name": "Narayana Multispeciality Hospital, Howrah",
+        "Phone Number": "+91 33 7122 2222",
+        "Address": "120, Andul Road, Howrah, West Bengal 711103",
+        "Latitude": "22.5694° N",
+        "Longitude": "88.3075° E"
+    },
+    {
+        "Hospital Name": "Narayana Superspeciality Hospital, Howrah",
+        "Phone Number": "+91 33 7122 2222",
+        "Address": "120, Andul Road, Howrah, West Bengal 711103",
+        "Latitude": "22.5694° N",
+        "Longitude": "88.3075° E"
+    },
+    {
+        "Hospital Name": "Nil Ratan Sircar Medical College and Hospital",
+        "Phone Number": "+91 33 2284 3110",
+        "Address": "138, Acharya Jagadish Chandra Bose Rd, Sealdah, Kolkata, West Bengal 700014",
+        "Latitude": "22.5645° N",
+        "Longitude": "88.3740° E"
+    },
+    {
+        "Hospital Name": "R. G. Kar Medical College and Hospital",
+        "Phone Number": "+91 33 2555 7656",
+        "Address": "1, Khudiram Bose Sarani, Shyam Bazaar, Kolkata, West Bengal 700004",
+        "Latitude": "22.5959° N",
+        "Longitude": "88.3769° E"
+    },
+    {
+        "Hospital Name": "Rabindranath Tagore International Institute of Cardiac Sciences",
+        "Phone Number": "+91 33 6605 7200",
+        "Address": "124, Mukundapur, EM Bypass, Kolkata, West Bengal 700099",
+        "Latitude": "22.5050° N",
+        "Longitude": "88.4069° E"
+    },
+    {
+        "Hospital Name": "Sankara Nethralaya",
+        "Phone Number": "+91 33 4400 5000",
+        "Address": "147, Mukundapur, E.M. Bypass, Kolkata, West Bengal 700099",
+        "Latitude": "22.5050° N",
+        "Longitude": "88.4069° E"
+    },
+    {
+        "Hospital Name": "Saroj Gupta Cancer Centre and Research Institute",
+        "Phone Number": "+91 33 2436 1000",
+        "Address": "Mahatma Gandhi Road, Thakur Pukur, Kolkata, West Bengal 700063",
+        "Latitude": "22.4646° N",
+        "Longitude": "88.3039° E"
+    },
+    {
+        "Hospital Name": "Tata Medical Center",
+        "Phone Number": "+91 33 6605 7000",
+        "Address": "14, Major Arterial Road (East-West), Kolkata, West Bengal 700160",
+        "Latitude": "22.5949° N",
+        "Longitude": "88.4710° E"
+    },
+    {
+        "Hospital Name": "Vivekananda Institute of Medical Sciences, Kolkata",
+        "Phone Number": "+91 33 2475 7300",
+        "Address": "99, Sarat Bose Road, Kolkata, West Bengal 700026",
+        "Latitude": "22.5276° N",
+        "Longitude": "88.3499° E"
+    }
+]

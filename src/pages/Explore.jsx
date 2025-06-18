@@ -1,18 +1,19 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
+import { useAppContext } from "../context/AppContext";
 
 const Explore = () => {
   const navigate = useNavigate();
-
+  const { user } = useAppContext();
   // Hotels Data
   const hotels = [
     {
-      name: "Taj Hotel",
-      location: "Mumbai",
+      name: "Paris",
+      location: "France",
       rating: 5,
       description: "A luxurious 5-star hotel known for its premium hospitality.",
-      link: "https://www.tajhotels.com/",
-      image: "https://images.unsplash.com/photo-1605905177654-65a5703f3fe8?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+       
+       image : "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGFyaXN8ZW58MHx8MHx8fDA%3D"
     },
     {
       name: "Leela Palace",
@@ -119,7 +120,7 @@ const Explore = () => {
       </button>
 
        
-<h2 className="text-3xl font-bold mb-6 text-center">🏨 Best Hotels</h2>
+<h2 className="text-3xl font-bold mb-6 text-center">🏨 Best Places</h2>
 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 p-10">
   {hotels.map((hotel, index) => (
     <div 
@@ -143,14 +144,15 @@ const Explore = () => {
         <p className="text-sm text-gray-600 mt-2">{hotel.description}</p>
         
          
-        <a 
-          href={hotel.link} 
+        <Link
+          to= {`${hotel.name == 'Paris'?"/travelDestination":`${hotel.link}`}`} 
+           
           target="_blank" 
           rel="noopener noreferrer" 
           className="block mt-3 bg-blue-500 text-white text-center px-4 py-2 rounded-lg transition duration-300 hover:bg-blue-700 hover:scale-105"
         >
-          Visit
-        </a>
+           {<span> Visit</span>}
+        </Link>
       </div>
     </div>
   ))}
@@ -158,7 +160,7 @@ const Explore = () => {
 
 
     
-      <h2 className="text-3xl font-bold mt-12 mb-6 text-center">🌟 Top Traveling Places</h2>
+<h2 className="text-3xl font-bold mt-12 mb-6 text-center">🌟 Top Traveling Places</h2>
 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 p-12">
   {places.map((place, index) => (
     <div 
